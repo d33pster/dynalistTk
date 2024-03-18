@@ -1,2 +1,4 @@
 pyproject.toml
 tests/
+dist
+src/dynalistTk.egg-info/
