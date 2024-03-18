@@ -1,6 +1,6 @@
 # <p align='center'> dynaListTk </p>
 
-![Static Badge](https://img.shields.io/badge/pypi-available-brightgreen?style=flat&logo=Pypi&logoColor=red)
+![Static Badge](https://img.shields.io/badge/pypi-available-brightgreen?style=flat&logo=python&logoColor=red&link=https%3A%2F%2Fpypi.org%2Fproject%2FdynalistTk%2F1.2.1%2F)
 ![Static Badge](https://img.shields.io/badge/Linux-supported-blue?style=flat&logo=Linux&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Windows-supported-blue?style=flat&logo=Windows&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/MacOS-supported-blue?style=flat&logo=Macintosh&logoColor=red)
